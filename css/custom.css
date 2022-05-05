@@ -1,0 +1,14 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+
+
+@media (max-width: 768px) {
+	#home .hero-bg .parallax {
+		background-image: none;
+	}
+}
